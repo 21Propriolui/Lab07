@@ -148,5 +148,6 @@ Lab07/
 │   └── view.py (DA MODIFICARE)
 │
 ├── musei_torino.sql (DA IMPORTARE)
-└── main.py (DA ESEGUIRE)
+├── main.py (DA ESEGUIRE)
+└── requirements.txt
  ```
